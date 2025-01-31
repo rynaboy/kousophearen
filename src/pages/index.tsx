@@ -59,7 +59,7 @@ export default function Home() {
             </a>
             <a
               className={styles.primary}
-              href="https://www.facebook.com/share/15QY6ee8AR/?mibextid=wwXIfr"
+              href="https://t.me/Sophearen_kou"
               target="_blank"
               rel="noopener noreferrer"
             >
